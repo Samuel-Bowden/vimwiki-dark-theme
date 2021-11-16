@@ -1,0 +1,48 @@
+body {
+  font-family: "Lucida Console", monospace;;
+  margin: 2em 2em 2em 2em;
+	background-color: #000000;
+}
+
+h1, h2, h3 {font-weight: bold;}
+
+h1 {font-size: 1.8em; color: #999999;}
+h2 {font-size: 1.4em; color: #999999;}
+h3 {font-size: 1.0em; color: #999999;}
+
+p, pre, ul, ol, dl {
+	color: #999999;
+	font-size: 0.8em;
+}
+
+pre {
+  background-color: #0d0d0d;
+  padding-left: 1.5em;
+  font-size: 0.8em;
+  border-radius: 6px;
+}
+
+p > a {
+  color: #999999;
+  text-decoration: none;
+  font-size: 0.7em;
+  padding: 3px 6px;
+  border-radius: 3px;
+  background-color: #484848;
+  font-weight: bold;
+}
+
+li > a {
+  color: #999999;
+  text-decoration: none;
+  font-size: 0.7em;
+  padding: 1px 4px;
+  border-radius: 3px;
+  background-color: #484848;
+  font-weight: bold;
+}
+
+.header a {
+  text-decoration: none;
+  color: inherit;
+}
