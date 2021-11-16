@@ -1,7 +1,7 @@
 body {
-  font-family: "Lucida Console", monospace;;
+  font-family: "Lucida Console", monospace;
   margin: 2em 2em 2em 2em;
-	background-color: #000000;
+  background-color: #000000;
 }
 
 h1, h2, h3 {font-weight: bold;}
@@ -11,8 +11,8 @@ h2 {font-size: 1.4em; color: #999999;}
 h3 {font-size: 1.0em; color: #999999;}
 
 p, pre, ul, ol, dl {
-	color: #999999;
-	font-size: 0.8em;
+  color: #999999;
+  font-size: 0.8em;
 }
 
 pre {
